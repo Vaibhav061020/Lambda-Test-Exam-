@@ -1,0 +1,23 @@
+{
+  "name": "lambda-test-exam-",
+  "version": "1.0.0",
+  "description": "This repo is created for the lambda test exam prespective",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhav061020/Lambda-Test-Exam-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhav061020/Lambda-Test-Exam-/issues"
+  },
+  "homepage": "https://github.com/Vaibhav061020/Lambda-Test-Exam-#readme",
+  "dependencies": {
+    "cypress": "^7.7.0"
+  }
+}
