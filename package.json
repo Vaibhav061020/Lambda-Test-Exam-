@@ -4,7 +4,8 @@
   "description": "This repo is created for the lambda test exam prespective",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy-open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,11 @@
   "homepage": "https://github.com/Vaibhav061020/Lambda-Test-Exam-#readme",
   "dependencies": {
     "cypress": "^7.7.0"
+  },
+  "devDependencies": {
+    "axe-core": "^4.4.2",
+    "cypress-audit": "^1.1.0",
+    "cypress-axe": "^0.14.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
