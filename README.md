@@ -52,3 +52,6 @@ if you click on any error on the cypress log the accessibility error is highligh
 we can also check the accessibility for a specific element as well as a particular paragraph or field and any form as well. As we see we can check the accessibility of the form. we have to just pass the xpath or the selector inside the "checkA11y()" command.
 And the script it will show you the accessibility assertion specifically for the form.
  
+And the end of this exam I have also used the lighthouse plugin and command such as 
+      
+      cy.lighthouse();
