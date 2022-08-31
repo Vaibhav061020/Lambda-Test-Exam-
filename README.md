@@ -1,7 +1,6 @@
 
-Firstly, we require to initialize our project for that we 
-use a simple command such as 
-    npm init -y
+Firstly, we require to initialize our project for that we use a simple command such as 
+    ##npm init -y
 then we install Cypress, The command that I have used is.
     npm install cypress@7
 I have used the cypress version 9 specifically because it is 
