@@ -12,7 +12,10 @@ folder called as Functional test in it. Inside this folder,I have included the
  
 **Test-scenario1-test.spec.js**and**Test-scenario1-test.spec.js**
 file. 
-
+To open the cypress runner use 
+    
+    npm run cy-open
+    
 At top of this file we have to include add the command
 
     /// <reference type="cypress"/>
