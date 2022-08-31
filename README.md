@@ -16,6 +16,10 @@ To open the cypress runner use
     
     npm run cy-open
     
+For the gitpod one touch repo 
+
+    https://vaibhav0610-lambdateste-db4jv84k7yn.ws-us63.gitpod.io/
+
 At top of this file we have to include add the command
 
     /// <reference type="cypress"/>
